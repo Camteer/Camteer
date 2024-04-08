@@ -121,9 +121,11 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Camteer&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-<div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Camteer&layout=compact)](https://github.com/camteer/github-readme-stats)</div>  
+<div align="center">(https://github-readme-stats.vercel.app/api/top-langs/?username=Camteer&layout=compact)](https://github.com/camteer/github-readme-stats)</div>  
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Camteer&layout=compact)](https://github.com/camteer/github-readme-stats)
+[![codewars](https://www.codewars.com/users/Camteer/badges/large)](https://www.codewars.com/users/Camteer)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Camteer)](https://github.com/Camteer/leetcode-stats)
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
