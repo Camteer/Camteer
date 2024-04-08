@@ -122,6 +122,7 @@
 
 <br/>  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Camteer&layout=compact)](https://github.com/camteer/github-readme-stats)
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
