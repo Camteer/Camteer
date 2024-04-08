@@ -6,7 +6,7 @@
 ### <div align="center">Привет, меня зовут Евгений🦝</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/Camteer/github-profilinator)  
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use spaces and tabs 
   
 
 <br/>  
