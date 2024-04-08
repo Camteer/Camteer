@@ -119,11 +119,37 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Camteer&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camteer&layout=compact" align="center" /></div>  
-<div align="center"><img src="https://www.codewars.com/users/Camteer/badges/large" align="center" /></div>  
-<div align="center"><img src="https://leetcode-stats-six.vercel.app/api?username=Camteer&theme=dark" align="center" /></div>  
 
 <br/>  
+
+<br/>  
+
+## Github Activity  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camteer&layout=compact" align="center" /></div>  
+
+<br/>  
+
+<br/>  
+
+## Codewars 
+<div align="center"><img src="https://www.codewars.com/users/Camteer/badges/large" align="center" /></div>  
+
+<br/>  
+
+<br/>  
+
+## Leetcode 
+<div align="center"><img src="https://leetcode-stats-six.vercel.app/api?username=Camteer&theme=dark" align="center" /></div>  
+
+<br/>
+
+<br/>  
+
+## Github streak 
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Camteer" align="center" /></div>  
+
+<br/>
+
 
 
 ## Recent Blog Posts  
