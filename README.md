@@ -121,8 +121,8 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Camteer&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+<div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Camteer&layout=compact)](https://github.com/camteer/github-readme-stats)</div>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Camteer&layout=compact)](https://github.com/camteer/github-readme-stats)
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
