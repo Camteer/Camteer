@@ -118,14 +118,14 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Camteer&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Camteer&show_icons=true&count_private=true&hide_border=true&theme=react" align="center" /></div>  
 
 <br/>  
 
 <br/>  
 
 ## Github Activity  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camteer&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camteer&layout=compact&theme=react" align="center" /></div>  
 
 <br/>  
 
