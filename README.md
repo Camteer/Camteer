@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://uc.lolkot.ru/picture/25818-36949-7.gif](https://media1.tenor.com/m/ZAMoMuQgf9UAAAAd/mapache-pedro.gif)" align="center" style="width: 100%" />
+<img src="https://uc.lolkot.ru/picture/25818-36949-7.gif" align="center" style="width: 100%" />
 </div>  
 
 
