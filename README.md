@@ -1,5 +1,5 @@
 <div align="center">
-<div class="tenor-gif-embed" data-postid="7206648027763736533" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/mapache-pedro-gif-7206648027763736533">Mapache Pedro GIF</a>from <a href="https://tenor.com/search/mapache+pedro-gifs">Mapache Pedro GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://tenor.com/ru/view/mapache-pedro-gif-7206648027763736533" />
 </div>  
 
 
