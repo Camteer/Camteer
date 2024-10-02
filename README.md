@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tenor.com/ru/view/mapache-pedro-gif-7206648027763736533" />
+  <img src="https://tenor.com/ru/view/mapache-pedro-gif-7206648027763736533" align="center" style="width: 100%" />
 </div>  
 
 
