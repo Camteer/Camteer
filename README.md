@@ -111,9 +111,9 @@
 <br/>  
 
 ## Leetcode 
-<div align="center">
+
 ![](https://leetcard.jacoblin.cool/Camteer?font=Dancing_Script)
-</div>  
+
 
 <br/>
 
