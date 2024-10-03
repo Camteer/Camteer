@@ -102,12 +102,11 @@
 
 <br/>  
 
-<br/>  
 
-## Codewars 
-<div align="center"><img src="https://www.codewars.com/users/Camteer/badges/large" align="center" /></div>  
 
-<br/>  
+
+
+
 
 <br/>  
 
