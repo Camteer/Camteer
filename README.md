@@ -111,7 +111,9 @@
 <br/>  
 
 ## Leetcode 
-<div align="center"><img src="https://leetcode-stats-six.vercel.app/api?username=Camteer&theme=dark" align="center" /></div>  
+<div align="center">
+![](https://leetcard.jacoblin.cool/Camteer?font=Dancing_Script)
+</div>  
 
 <br/>
 
