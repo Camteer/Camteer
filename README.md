@@ -102,16 +102,10 @@
 
 <br/>  
 
-
-
-
-
-
-
 <br/>  
 
 ## Leetcode 
-<div align="center"> <a href="" ><img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+web-developer+from+Moscow](https://leetcard.jacoblin.cool/Camteer?font=Dancing_Script)" /></a> </div>
+<div align="center"> <a href="" ><img src="https://leetcard.jacoblin.cool/Camteer?font=Dancing_Script" /></a> </div>
 
 
 
