@@ -4,7 +4,7 @@
 
 ### <div align="center">Привет, меня зовут Евгений🦝</div>  
 
-<div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+web-developer+from+Moscow)](https://git.io/typing-svg)</div>
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+web-developer+from+Moscow" alt="Typing SVG" /></a>
 
 ### Мои приоритеты:
 
