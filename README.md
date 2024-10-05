@@ -37,10 +37,10 @@
 
 </td><td valign="top" width="33%">
 
-### Backend  
+### Мои инструменты  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,mongodb,postgres,prisma,nodejs" />
+    <img src="https://skillicons.dev/icons?i=figma,ps,git,notion,obsidian,npm,yarn,pnpm,postman,powershell,vscode,vite,webpack,vercel" />
   </a>
 </p>
 
